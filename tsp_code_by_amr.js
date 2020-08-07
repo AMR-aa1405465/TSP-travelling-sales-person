@@ -189,7 +189,7 @@ function formPermuations(element, otherNumbers, k, size) {
 
 
 function printWelcomeMessege() {
-    console.log("Made By Amr Aboeleneen\nAlgorithims Course\nYear-2020\nEmail @aa1405465@qu.edu.qa\n\n\nPlease notice that indeces starts from 0 not 1")
+    console.log("Made By Amr Aboeleneen\nAlgorithims Course\nYear-2020\n\n\nPlease notice that indeces starts from 0 not 1")
 }
 
 /*
